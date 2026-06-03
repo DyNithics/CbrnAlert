@@ -492,9 +492,7 @@ version = "0.4.3"
 
 [[deps.FlexExtract]]
 deps = ["CSV", "DataStructures", "Dates", "EcRequests", "FlexExtract_jll", "Pkg", "PyCall", "StatsBase", "eccodes_jll"]
-git-tree-sha1 = "681cbbcc4d0b7a865375f8e1b20a1f8c21280904"
-repo-rev = "main"
-repo-url = "https://github.com/tcarion/FlexExtract.jl.git"
+path = "/home/nshettigar/.julia/dev/FlexExtract"
 uuid = "5ad5ba56-8ec2-41bb-8b56-2065914898b5"
 version = "0.1.1"
 
