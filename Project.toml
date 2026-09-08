@@ -1,5 +1,0 @@
-[deps]
-FlexExtract = "5ad5ba56-8ec2-41bb-8b56-2065914898b5"
-
-[compat]
-FlexExtract = "0.1.1"
